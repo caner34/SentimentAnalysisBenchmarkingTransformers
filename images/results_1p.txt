@@ -1,0 +1,36 @@
+
+RoBERTa
+
+Accuracy Score for Training Set:  0.9556793412448534
+F1 Score for Training Set:  0.9602087410306589
+
+Accuracy Score for Validation Set:  0.9173228346456693
+F1 Score for Validation Set:  0.9270833333333334
+
+Accuracy Score for Test Set:  0.9365384615384615
+F1 Score for Test Set:  0.9458128078817735
+
+
+XLNet
+
+Accuracy Score for Training Set:  0.9607653184790507
+F1 Score for Training Set:  0.9643014543851917
+
+Accuracy Score for Validation Set:  0.9311023622047244
+F1 Score for Validation Set:  0.9376114081996434
+
+Accuracy Score for Test Set:  0.9365384615384615
+F1 Score for Test Set:  0.9449081803005008
+
+
+Longformer
+
+Accuracy Score for Training Set:  0.962460644223783
+F1 Score for Training Set:  0.965609052584868
+
+Accuracy Score for Validation Set:  0.9271653543307087
+F1 Score for Validation Set:  0.9330922242314648
+
+Accuracy Score for Test Set:  0.9423076923076923
+F1 Score for Test Set:  0.9491525423728814
+
